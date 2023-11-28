@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(225, 225, 137);
+  }
+  h1{
+    font-size: xx-large;
+    font-style: inherit;
+    text-decoration: underline;
+    text-align: center;
+}
+h2{font-size: x-large;
+    font-style: oblique;
+    text-decoration: underline;
+    text-align: left;
+
+}
+p{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    
+    width: 1000pt;height:auto;
+}
